@@ -1,4 +1,4 @@
-# Python Microservices with Service Discovery using Consul
+# Service Discovery in Python Microservices using Consul
 
 This repository demonstrates a basic implementation of microservices in Python with service discovery facilitated by Consul. The setup includes two services:
 
